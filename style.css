@@ -188,4 +188,8 @@ hr {
         overflow-x: auto;
     }
 
-    .card {
+    th,
+    td {
+        white-space: nowrap;
+    }
+}
